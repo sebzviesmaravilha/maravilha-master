@@ -96,7 +96,7 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Vivek Patel Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>my name is <span className="font-bold">Sebzvies Maravilha</span> ,</div>
+                <div>Ben <span className="font-bold">Sebzvies Maravilha</span> ,</div>
                 <div className="font-normal ml-1">Ben <span className="text-pink-600 font-bold">sadece öyle biriyim.</span></div>
             </div>
         </>
