@@ -15,11 +15,7 @@ export class AboutVivek extends Component {
 
     componentDidMount() {
         this.screens = {
-            "about": <About />,
-            "education": <Education />,
-            "skills": <Skills />,
-            "projects": <Projects />,
-            "resume": <Resume />,
+            "about": <About />
         }
 
         let lastVisitedScreen = localStorage.getItem("about-section");
